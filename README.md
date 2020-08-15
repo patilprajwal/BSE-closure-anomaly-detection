@@ -1,1 +1,1 @@
-# BSE-closure-anomaly-detection
+# BSE Closure Anomaly Detection
